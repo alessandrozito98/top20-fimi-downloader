@@ -1,0 +1,8 @@
+re
+bs4
+selenium
+pandas
+re
+os
+sys
+tkinter
